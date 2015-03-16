@@ -26,8 +26,10 @@ Current base patterns (left-to-right):
 	4. Downward-facing pentagon with 4th (bottom) corner highlighted.
 
 Current row styles (top-to-bottom):
-	1. Base, flat.
-	2. Base inverted color, flat.
+	1. Base
+	2. Base + Inverted Color Scheme
+	3. Base + Color Blend/Gradient (Ugly)
+	4. Base + Subltle Inset Shadow
 	
 ##Conventions:
 	* potential-logo-designs.svg should be edited only with Inkscape (for now).
